@@ -1,4 +1,7 @@
-# Supply Chain & Demand Analytics Dashboard
+INTERN ID= CITS9572
+NAME= PRATHAM KATIYAR 
+WEEKS= 4
+PROJECT NAME= Supply Chain risk Analytics Dashboard
 
 An Excel and Power BI dashboard analyzing product demand, inventory management, and supplier performance across warehouse locations in Germany, built to identify supply chain inefficiencies and support operational decision-making.
 
@@ -169,16 +172,3 @@ Rebuilt the entire dashboard in Power BI Web, created DAX measures for Fill Rate
 
 ---
 
-## 💼 Transferable Skills Demonstrated
-
-- Supply chain analysis — demand planning, inventory control, and supplier evaluation applicable across manufacturing, retail, logistics, and energy sectors
-- Rebuilding the same analytical product across two different BI tools (Excel and Power BI) demonstrating tool-agnostic thinking
-- Structuring a multi-dimensional analysis (product + supplier + location) into a single coherent dashboard
-- Translating operational metrics into business language that non-technical stakeholders can act on
-- Identifying where operational inefficiency is creating financial cost not just describing what the data shows
-- Writing DAX measures to surface KPIs that go beyond raw aggregations
-- Designing dashboards that serve multiple functions simultaneously: performance review, risk identification, and procurement planning
-
----
-
-*Dataset is simulated to reflect real-world supply chain operations.*
